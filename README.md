@@ -1,5 +1,5 @@
 # avatar
-I find the 13 root DNS servers a facinating concept so I wanted to somehow incorperate that into the design. `J` happens to be the 10th letter while `S` happens to be the 19th letter. I wanted to use 13 which would probably be a more accurate representation of that but instead opted for a letter that represents my interests a bit more.
+I find the 13 root DNS servers a facinating concept so I wanted to somehow incorperate that into the design. The servers like names to IP addresses are letters to number addresses. `J` happens to be the 10th letter while `S` happens to be the 19th letter. I wanted to use 13 which would probably be a more accurate representation of that but instead opted for a letter that represents my interests a bit more.
 
 ![avatar preview](https://raw.githubusercontent.com/metaheap/isomer/master/avatar.png "avatar preview")
 
